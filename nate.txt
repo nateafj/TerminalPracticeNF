@@ -1,3 +1,5 @@
 The terminal is the command line of the computer that has access to all the documents on your machine. It is operated without any GUI and relies solely on manually input command prompts.
 
-The main difference a
+The main difference between git and GitHub is that GitHub is a more socially inclined app meant to be collaborative while git is meant for solo editing and coding
+
+We use GitHub to share and fork our repos to be able to take a full look at the code history and progression.
